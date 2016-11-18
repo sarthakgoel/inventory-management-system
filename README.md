@@ -1,3 +1,3 @@
 # inventory-management-system
 
-## This is a project of inventory managemen.
+## This is a project of inventory management.
